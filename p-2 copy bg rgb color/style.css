@@ -1,0 +1,15 @@
+.cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    width: 100vw;
+    background-color: white;
+    color: rgb(56, 33, 33);
+    gap: 20px;
+}
+
+.heading{
+    text-shadow: 3px 2px rgb(46, 154, 154);
+}
